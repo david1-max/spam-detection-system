@@ -96,7 +96,9 @@ Then open your browser at `http://localhost:8501`
 
 ## Author
 
-Your Name
+Divyanshu Yadav
+Vaibhav Sharma
+Raj Kanoi
 
 ## License
 
