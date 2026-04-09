@@ -40,7 +40,7 @@ Spam_Detection_Project/
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/david1-max/Spam_Detection_Project.git
+https://github.com/david1-max/spam-detection-system
 cd Spam_Detection_Project
 ```
 
